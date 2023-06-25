@@ -10,3 +10,17 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.CajaGrande {
+    text-align: center;
+    background-color: black;
+}
+
+.CajaGrande div{
+    display: inline-block;
+    font-size: 70px;
+    color: white;
+    background-color: black;
+    padding: 15px;
+
+}
